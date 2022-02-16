@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+> A hardly-modified CRA to work with [Skynet's Homescreen](https://docs.skynetlabs.com/integrations/homescreen/adding-homescreen-support-to-an-app)
+
+[![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/AQBA5yRqkbwjL69C004JZDRXR-fNRFr60_wkb7OaQB4whA)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
