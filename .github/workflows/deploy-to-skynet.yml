@@ -21,7 +21,7 @@ jobs:
         uses: SkynetLabs/deploy-to-skynet-action@skynet-api-key
         with:
           upload-dir: build
-          portal-url: https://skynetpro.net
+          portal-url: https://skynetfree.net
           github-token: ${{ secrets.GITHUB_TOKEN }}
           registry-seed: ${{ secrets.SKYNET_REGISTRY_SEED || '' }}
           skynet-api-key: ${{ secrets.SKYNET_API_KEY }}
